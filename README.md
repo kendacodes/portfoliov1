@@ -1,8 +1,8 @@
 My Portfolio
 
-Link to project: coming soon...
+Link to project: https://wsl.netlify.com/
 
-[alt tag]{img/portfolio.gif}
+<a href="https://imgflip.com/gif/2v5d1b"><img src="https://i.imgflip.com/2v5d1b.gif" title="made at imgflip.com"/></a>
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript, scss
