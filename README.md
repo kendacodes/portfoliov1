@@ -2,7 +2,7 @@ My Portfolio
 
 Link to project: coming soon...
 
-![alt tag] {img/portfolio.gif}
+[alt tag]{img/portfolio.gif}
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript, scss
